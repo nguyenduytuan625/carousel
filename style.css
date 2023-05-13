@@ -1,0 +1,21 @@
+.bg-img1 {
+    background-color: #000;
+    background-size: cover;
+    background-image: url("./img/download1.jpg");
+}
+
+.bg-img2 {
+    background-color: #000;
+    background-size: cover;
+    background-image: url("./img/download2.jpg");
+}
+
+.bg-img3 {
+    background-color: #000;
+    background-size: cover;
+    background-image: url("./img/download3.jpg");
+}
+
+.container {
+    height: 500px;
+}
